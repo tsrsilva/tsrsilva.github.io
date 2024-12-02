@@ -29,7 +29,7 @@ twitter_username:
 github_username:
 
 # Build settings
-remote_theme: jekyll/minima@c6e74bb
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
