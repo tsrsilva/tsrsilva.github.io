@@ -7,8 +7,11 @@ permalink: /about/
 I am an Entomologist with a particular interest in ant Taxonomy and Biodiversity Informatics. I am currently based at the Universidade Federal do Paraná as a Postdoctoral Fellow in the [Feitosa Lab - Laboratório de Sistemática e Biologia de Formigas][feitosa-lab] working on data management for the Ant Collection in that same institution.
 
 You can find me at:
+
 [Research Gate][thiago-rg]
+
 [GitHub][thiago-git]
+
 [ORCID][thiago-orcid]
 
 
