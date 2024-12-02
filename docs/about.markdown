@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am an Entomologist with a particular interest in ant Taxonomy and Biodiversity Informatics. I am currently based at the Universidade Federal do Paraná as a Postdoctoral Fellow in the [Feitosa Lab - Laboratório de Sistemática e Biologia de Formigas][feitosa-lab] working on data management for the Ant Collection in that same institution.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find me at:
+[Research Gate][thiago-rg]
+[GitHub][thiago-git]
+[ORCID][thiago-orcid]
 
 
-[jekyll-organization]: https://github.com/jekyll
+[feitosa-lab]: https://www.feitosalab.com
+[thiago-rg]: https://www.researchgate.net/profile/Thiago-Silva-102
+[thiago-git]: https://github.com/tsrsilva
+[thiago-orcid]: https://orcid.org/0000-0002-4239-1500
+
