@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am an entomologist, programmer, and writer. Currently based at the Universidade Federal do Paraná, Curitiba, Brazil as a Postdoctoral Fellow within the [Feitosa Lab][feitosa-lab], developing digitization frameworks that allow curators to realistic manage local biological collections.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+As an entomologist, my interests reside in comparative anatomy of ants and wasps, taxonomy, and specialized terminology.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+As a programmer, I am interested in relational and semantic data models, database theory, data provenance, and first-order logic.
+
+As a writer, my inspirations lie in speculative fiction, especially Octavia E. Butler, Ursula K Le Guin, Gene Wolfe, and Samuel R. Delany.
 
 
-[jekyll-organization]: https://github.com/jekyll
+[feitosa-lab]: https://www.feitosalab.com/
