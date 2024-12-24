@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Image](/docs/assets/imgs/me_resized.jpeg)
+![Image](/docs/assets/imgs/me_resized.png)
 
 ## Introduction
 
