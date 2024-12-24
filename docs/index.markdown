@@ -6,8 +6,6 @@ layout: home
 ---
 
 [Image](/docs/assets/imgs/me.jpeg)
-[Image]({{ '/assets/imgs/me.jpeg' | relative_url }})
-[Image]({{ site.baseurl }}/assets/imgs/me.jpeg)
 
 ## Introduction
 
