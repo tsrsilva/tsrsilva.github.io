@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Image]({{ '/assets/imgs/me.jpeg' | relative_url }})
+![Image](/docs/assets/imgs/me.jpeg)
 
 ## Introduction
 
