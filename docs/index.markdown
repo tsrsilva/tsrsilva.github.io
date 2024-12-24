@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Image]({{ site.baseurl }}/assets/imgs/me.jpg)
+![Image](/assets/imgs/me.jpg)
 
 Introduction
 
