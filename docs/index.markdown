@@ -5,7 +5,9 @@
 layout: home
 ---
 
-<img src="/assets/imgs/me.jpg"/>
+[Image](docs/assets/imgs/me.jpeg)
+[Image]({{ 'assets/imgs/me.jpeg' | relative_url }})
+[Image]({{ site.baseurl }}//assets/imgs/me.jpg)
 
 ## Introduction
 
