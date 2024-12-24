@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Introduction
 ---
-
-# Introduction
 
 I am Thiago Silva. I am a biologist, programmer, and writer. I worked as a researcher at UFPR and HKU. I am an alumnus of FURB, USP, and UFPR.
