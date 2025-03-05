@@ -6,4 +6,4 @@ layout: home
 title: Introduction
 ---
 
-I am Thiago Silva. I am a biologist, programmer, and writer. I worked as a researcher at UFPR and HKU. I am an alumnus of FURB, USP, and UFPR.
+I am Thiago Silva. I am a biologist, programmer, and writer. I worked as a researcher at UFPR and HKU. I am an alumnus of FURB, USP, and UFPR. Currently an independent researcher.
