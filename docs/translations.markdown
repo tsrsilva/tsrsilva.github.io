@@ -4,4 +4,4 @@ title: Translations
 permalink: /translations/
 ---
 
-[Link to a page]({% docs/_posts/2025-03-05-introduction.markdown %})
+[Introduction]({% post_url 2025-03-05-introduction %})
