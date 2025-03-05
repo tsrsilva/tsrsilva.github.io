@@ -4,4 +4,4 @@ title: Translations
 permalink: /translations/
 ---
 
-Borgmeier's translation
+[Link to a page]({% link test_sub.md %})
