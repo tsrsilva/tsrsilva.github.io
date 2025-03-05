@@ -5,7 +5,7 @@ categories: test
 author:
 - Thiago Silva
 modified_date: 2025-03-05
-hidden:true
+hidden: true
 ---
 
 This blog is going to be focused on providing translations for specialized documents in distinct topics in Biology. 
