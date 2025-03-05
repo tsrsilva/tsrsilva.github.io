@@ -5,7 +5,6 @@ categories: test
 author:
 - Thiago Silva
 modified_date: 2025-03-05
-hide: TRUE
 ---
 
 ## Introduction
