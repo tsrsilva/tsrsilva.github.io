@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Translations
-permalink: /translations/
 ---
 
 ## Overview ##
