@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About me
 ---
 
 I am an entomologist, programmer, and writer. Currently an independent researcher based in Aracaju, Brazil, working with semantic modelling, critical archival studies, etymology and translation, and videogame studies.
