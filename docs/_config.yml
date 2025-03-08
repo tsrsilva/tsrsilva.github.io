@@ -21,7 +21,7 @@ author: Thiago Silva
 
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects.markdown"
+  Projects: "projects"
   Translations: "translations.markdown"
 
 ################
