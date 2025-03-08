@@ -20,7 +20,7 @@ author: Thiago Silva
 ###############################################
 
 navbar-links:
-  About Me: "about.markdown"
+  About Me: "aboutme"
   Projects: "projects.markdown"
   Translations: "translations.markdown"
 
