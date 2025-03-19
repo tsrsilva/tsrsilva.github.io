@@ -18,7 +18,6 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 ### Translation projects ###
 
 * Translation of **Borgmeier, T. 1920. Zur Lebensweise von _Odontomachus affinis_ Guérin.** from German (SL) to Brazilian Portuguese (TL). - Translation phase
-* Translation of the [S7-APCS Classification System](https://scp-wiki.wikidot.com/s7-apcs-guide) from English (SL) to Portuguese (TL). - Awaiting clearance from [SCP Foundation - Portuguese-speaking branch](http://scp-pt-br.wikidot.com/)
 
 ### Wikipedia and Wiktionary projects ###
 
