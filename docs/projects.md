@@ -23,7 +23,6 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 
 #### Wikipedia and Wiktionary projects ####
 
-* Extending the [List of *Strumigenys* species](https://en.wikipedia.org/wiki/List_of_Strumigenys_species) at the Anglophone Wikipedia.
 * Working on a page draft **Ant anatomy** for the [WikiProject Insects' Ant Task Force](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Insects/ant_task_force).
 
 #### Writing ####
@@ -35,3 +34,4 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 
 #### Wikipedia and Wiktionary projects ####
 * Evaluating the [Ḳurʾānic translation of ʿ*ibād* (عِبَاد)](https://en.wikipedia.org/wiki/Talk:Ibad).
+* Extending the [List of *Strumigenys* species](https://en.wikipedia.org/wiki/List_of_Strumigenys_species) at the Anglophone Wikipedia.
