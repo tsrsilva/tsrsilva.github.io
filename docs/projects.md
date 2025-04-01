@@ -11,7 +11,7 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 
 #### Academic projects ####
 
-* [PhenoBees](https://researchportal.helsinki.fi/fi/projects/phenobees-a-knowledgebase-and-integrative-approach-for-studying-t). - Starting April 1st
+* [PhenoBees](https://researchportal.helsinki.fi/fi/projects/phenobees-a-knowledgebase-and-integrative-approach-for-studying-t)
 * Materiality and context of specimen labels: a study case with entomological labels. - Silva, Neundorf, Feitosa (Writing phase)
 * Additions to the taxonomy of Neotropical *Strumigenys* (Hymenoptera: Formicidae): description of new species, terminology alignment, and etymology of the generic epithet. - Silva, Ladino, Feitosa (Reviewing phase)
 * Semantic modelling of skeleto-muscular components in ants: a case study of the genitalia of *Paraponera clavata*. - Silva (PHS snippet creation and class annotation)
