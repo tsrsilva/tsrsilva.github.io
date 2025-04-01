@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-I am a Brazilian entomologist, programmer, and writer. Currently an independent researcher based in Helsinki, Finland, working with semantic modelling, critical archival studies, etymology and translation, and videogame studies.
+I am a Brazilian entomologist, programmer, and writer. Currently a postdoctoral researcher based in Helsinki, Finland, working with semantic modelling, critical archival studies, etymology and translation, and videogame studies.
 
 As an entomologist, my interests reside in comparative anatomy of ants and wasps, theories in biological systematics, and specialized terminology and nomenclature.
 
