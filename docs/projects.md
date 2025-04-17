@@ -14,7 +14,7 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 * [PhenoBees](https://researchportal.helsinki.fi/fi/projects/phenobees-a-knowledgebase-and-integrative-approach-for-studying-t)
 * Materiality and context of specimen labels: a study case with entomological labels. - Silva, Neundorf, Feitosa (Submitted)
 * Additions to the taxonomy of Neotropical *Strumigenys* (Hymenoptera: Formicidae): description of new species, terminology alignment, and etymology of the generic epithet. - Silva, Ladino, Feitosa (Reviewing phase)
-* A critical analysis of Frame Semantics aproach to zoological terminology. - Silva (Writing phase)
+* A critical analysis of a frame-based aproach to zoological terminology. - Silva (Writing phase)
 * Ethical implications of nomenclature mandatory provisions under distinct classification scenarios: extending Pavlinov’s (2021) principle of taxonomic non-freedom. - Silva (Writing phase)
 
 #### Translation projects ####
