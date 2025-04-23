@@ -7,7 +7,7 @@ title: Collaborations
 
 [Natalia Ladino](https://institucional.ufpel.edu.br/servidores/id/223725) - Professor at the Universidade Federal de Pelotas
 
-[Rodrigo Machado Feitosa](https://www.researchgate.net/profile/Rodrigo-Feitosa) - Professor at the Universidade Federal do Paraná
+[Ana Carolina Alves Neundorf](https://www.researchgate.net/profile/Ana-Neundorf) - Researcher at the Universidade Federal do Paraná
 
 [Diego Sasso Porto](https://researchportal.helsinki.fi/en/persons/diego-sasso-porto) - Academy Research Fellow at the Finnish Museum of Natural History
 
