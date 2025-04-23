@@ -5,10 +5,10 @@ title: Collaborations
 
 ## Researchers ##
 
-Natalia Ladino - Professor at the Universidade Federal de Pelotas
+[Natalia Ladino](https://institucional.ufpel.edu.br/servidores/id/223725) - Professor at the Universidade Federal de Pelotas
 
-Rodrigo Machado Feitosa - Professor at the Universidade Federal do Paraná
+[Rodrigo Machado Feitosa](https://www.researchgate.net/profile/Rodrigo-Feitosa) - Professor at the Universidade Federal do Paraná
 
-Diego Sasso Porto - Academy Research Fellow at the Finnish Museum of Natural History
+[Diego Sasso Porto](https://researchportal.helsinki.fi/en/persons/diego-sasso-porto) - Academy Research Fellow at the Finnish Museum of Natural History
 
-Bruno Sanches Ranzani da Silva - Professor at the Universidade Federal de Sergipe
+[Bruno Sanches Ranzani da Silva](https://scholar.google.com.br/citations?user=0J0-YnwAAAAJ&hl=en) - Professor at the Universidade Federal de Sergipe
