@@ -5,7 +5,7 @@ title: Collaborations
 
 ## Researchers ##
 
-[Natalia Ladino](https://institucional.ufpel.edu.br/servidores/id/223725) - Professor at the Universidade Federal de Pelotas
+[Natalia Ladino](https://sites.google.com/view/nladinoswebsite/inicio) - Professor at the Universidade Federal de Pelotas
 
 [Rodrigo Feitosa](https://www.feitosalab.com/) - Professor at the Universidade Federal do Paraná
 
