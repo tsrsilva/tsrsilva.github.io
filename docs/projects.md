@@ -12,17 +12,13 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 #### Academic projects ####
 
 * [PhenoBees](https://researchportal.helsinki.fi/fi/projects/phenobees-a-knowledgebase-and-integrative-approach-for-studying-t)
-* Materiality and context of specimen labels: a study case with entomological labels. - Silva, Neundorf, Feitosa (Submitted)
+* Materiality and context of specimen labels: a study case with entomological labels. - Silva, Neundorf, Feitosa (Reviewing phase)
 * Additions to the taxonomy of Neotropical *Strumigenys* (Hymenoptera: Formicidae): description of new species, terminology alignment, and etymology of the generic epithet. - Silva, Ladino, Feitosa (Reviewing phase)
-* A critical analysis of a frame-based aproach to zoological terminology. - Silva (Writing phase)
+* A critical analysis of a frame-based aproach to zoological terminology. - Silva (Submitted)
 
 #### Translation projects ####
 
 * Translation of **Borgmeier, T. 1920. Zur Lebensweise von _Odontomachus affinis_ Guérin.** from German (SL) to Brazilian Portuguese (TL). - Translation phase
-
-#### Wikipedia and Wiktionary projects ####
-
-* Working on a page draft **Ant anatomy** for the [WikiProject Insects' Ant Task Force](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Insects/ant_task_force).
 
 #### Writing ####
 
