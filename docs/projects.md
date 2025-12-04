@@ -13,7 +13,6 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 
 * [PhenoBees](https://researchportal.helsinki.fi/fi/projects/phenobees-a-knowledgebase-and-integrative-approach-for-studying-t)
 * **Materiality and context of specimen labels: exposing frictions between local and global priorities in the preservation of ‘non-prototypical’ records** - Silva, Neundorf, Feitosa (Accepted)
-* **Additions to the taxonomy of Neotropical *Strumigenys* (Hymenoptera: Formicidae): description of new species, terminology alignment, and etymology of the generic epithet** - Silva, Ladino, Feitosa (Accepted)
 * **A critical review of Frame Semantics applied to biological terminology** - Silva (Submitted)
 
 #### Translation projects ####
@@ -26,6 +25,9 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 * Drafting the second installment of the *Old Sun* books, the sequel to *Ashes of Mazin*.
 
 ### Finished projects ###
+
+#### Academic projects ####
+* **Additions to the taxonomy of Neotropical *Strumigenys* (Hymenoptera: Formicidae): description of new species, terminology alignment, and etymology of the generic epithet** - Silva, Ladino, Feitosa [Rev. Bras. entomol. 69 (4), 2025](https://doi.org/10.1590/1806-9665-RBENT-2025-0006).
 
 #### Wikipedia and Wiktionary projects ####
 * Evaluating the [Ḳurʾānic translation of ʿ*ibād* (عِبَاد)](https://en.wikipedia.org/wiki/Talk:Ibad).
