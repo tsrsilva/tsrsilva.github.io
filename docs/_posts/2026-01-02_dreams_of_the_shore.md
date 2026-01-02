@@ -11,6 +11,8 @@ author: Thiago Silva
 > “Dreams of the Shore” é o nome de uma das músicas que acompanham a navegação no mapa de *Chrono Cross*.  
 > É também o ponto a partir do qual este ensaio começa.
 
+![Praia no Vilarejo Arni](https://github.com/tsrsilva/tsrsilva.github.io/blob/master/docs/assets/img/0e6c635c197d818b11218aed18c4a716.png)
+
 ## Prelúdio: A Costa
 
 Há momentos em *Chrono Cross* em que parece que nada urgente acontece. Uma das coisas que mais gosto de fazer enquanto jogo é ficar parado na beira da praia do Vilarejo Arni, ouvindo aquela música linda tocar, com o mar se estendendo em uma indiferença lenta e ritmada, enquanto o próprio jogo parece satisfeito em deixar o tempo passar. Nenhum marcador de missão exige movimento, nenhuma escalada narrativa impõe uma decisão. É possível simplesmente permanecer. Para um jogo tão profundamente marcado por linhas temporais fraturadas, futuros perdidos e instabilidade ontológica, esses momentos soam estranhamente resistentes à deriva. Eles não se preocupam em oferecer resolução. Em vez disso, oferecem algo mais fundamental: a sensação de que, ao menos ali, a existência não precisa se justificar através da ação.
@@ -23,6 +25,8 @@ São essas qualidades oceânicas, difusas e imanentes que me fazem retornar a *C
 
 O que chamo aqui de “deriva” não é apenas o movimento narrativo ou a progressão do jogo, mas uma condição mais ampla, comum a muitos RPGs: a expectativa de que o sentido surja principalmente por meio de acúmulo, escalada e intervenção decisiva. *Chrono Cross* certamente contém todos esses elementos, mas também os suspende repetidamente. A beira da praia de Arni não é um espaço de preparação, nem uma pausa antes da ação; é um lugar em que agir, ao menos por um momento, torna-se desnecessário. Ao retornar a esse espaço, percebo-me menos interessado no que o jogo me pede para fazer do que naquilo que ele me permite não fazer. A beira torna-se, assim, um lugar onde a identidade não é forjada pela escolha, mas sustentada pela presença. Um lugar onde a deriva pode cessar, não por se alcançar um destino, mas simplesmente por permanecer.
 
+![Praia Opassa](https://github.com/tsrsilva/tsrsilva.github.io/blob/master/docs/assets/img/OpassaBeach.webp)
+
 ## O Mito Oceânico
 
 Chrono Cross se desenrola em um mundo cuja estrutura é, fundamentalmente, oceânica. Essa qualidade não se limita à sua geografia composta por ilhas, arquipélagos e costas, mas atravessa a própria lógica narrativa do jogo e o ritmo da experiência que ele propõe. O jogo resiste à progressão linear e à identidade estável, favorecendo, em vez disso, a dispersão, a sobreposição e o retorno. Personagens surgem e desaparecem sem exigir centralidade narrativa, linhas do tempo se bifurcam e se recombinam sem plena reconciliação, e o sentido frequentemente emerge de modo oblíquo, e não por meio de revelações decisivas. Nesse sentido, *Chrono Cross* é difuso. Ele não conduz o jogador a um centro interpretativo único, nem insiste em uma síntese final capaz de resolver suas contradições.
@@ -34,6 +38,8 @@ A qualidade oceânica de *Chrono Cross* reside precisamente nessa resistência �
 Visto dessa forma, o mito de *Chrono Cross* não é heroico, mas imanente. Ele não pergunta quem o jogador se tornará, mas onde, e como, ele permanecerá. Seus momentos mais marcantes são aqueles em que a pressão narrativa recua e o mundo é autorizado a persistir sem exigência. O oceano, estendendo-se em sua indiferença silenciosa, não convoca conquista nem transcendência. Ele simplesmente continua.
 
 Dentro dessa condição oceânica, não são necessariamente as figuras que agem de forma mais decisiva que permanecem mais presentes, mas aquelas que persistem silenciosamente nos ritmos do mundo. Essa qualidade encontra sua expressão mais clara em Leena.
+
+![Leena, Serge e a criança](https://github.com/tsrsilva/tsrsilva.github.io/blob/master/docs/assets/img/hq720.jpg)
 
 ## Leena e a Vida Imanente
 
@@ -48,6 +54,9 @@ Essa recusa da escalada narrativa torna-se ainda mais expressiva quando contrast
 A forma como Leena habita o mundo ressoa com o que Gilles Deleuze descreve como imanência: uma concepção de vida que não retira seu sentido da transcendência, do destino ou da culminação narrativa, mas que se desdobra como relação, duração e persistência (Deleuze, 2001). Essa ressonância não é influência direta, mas afinidade.
 
 O que mais me atrai em Leena não é apenas sua gentileza, mas a orientação alternativa que ela articula para a vida. Suas ações são pequenas, repetitivas e orientadas ao cuidado, mas carregam um peso ético discreto. Ela não resolve as tensões do jogo, mas vive ao lado delas. Ao fazê-lo, torna visível uma maneira de existir que não deriva em busca de realização, mas permanece presente nos ritmos de um mundo compartilhado.
+
+
+![Guldove Torre Oeste](https://github.com/tsrsilva/tsrsilva.github.io/blob/master/docs/assets/img/Home_guldove_left_tower.png)
 
 ## Refúgios Ontológicos: Arni e Guldove
 
