@@ -1,14 +1,14 @@
 ---
 layout: post
 title: ---
-subtitle: --- Dreams of the Shore ---
+subtitle: --- Dream of the Shore ---
 comments: false
 author: Thiago Silva
 ---
 
-# Dreams of the Shore: Refúgio Ontológico e Vida Imanente em *Chrono Cross*
+# Dream of the Shore: Refúgio Ontológico e Vida Imanente em *Chrono Cross*
 
-> “Dreams of the Shore” é o nome de uma das músicas que acompanham a navegação no mapa de *Chrono Cross*.  
+> “Dream of the Shore” é o nome de uma das músicas que acompanham a navegação no mapa de *Chrono Cross*.  
 > É também o ponto a partir do qual este ensaio começa.
 
 ![Praia no Vilarejo Arni](https://github.com/tsrsilva/tsrsilva.github.io/blob/master/docs/assets/img/0e6c635c197d818b11218aed18c4a716.png)
