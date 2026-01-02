@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dream of the Shore
-subtitle: --- # Dream of the Shore: Refúgio Ontológico e Vida Imanente em *Chrono Cross* ---
+subtitle: Refúgio Ontológico e Vida Imanente em Chrono Cross
 comments: false
 author: Thiago Silva
 ---
