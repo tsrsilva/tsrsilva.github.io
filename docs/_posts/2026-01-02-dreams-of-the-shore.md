@@ -11,7 +11,7 @@ author: Thiago Silva
 > “Dream of the Shore” é o nome de uma das músicas que acompanham a navegação no mapa de *Chrono Cross*.  
 > É também o ponto a partir do qual este ensaio começa.
 
-![Praia no Vilarejo Arni](https://github.com/tsrsilva/tsrsilva.github.io/blob/master/docs/assets/img/0e6c635c197d818b11218aed18c4a716.png)
+![Praia no Vilarejo Arni](https://github.com/tsrsilva/tsrsilva.github.io/docs/assets/img/0e6c635c197d818b11218aed18c4a716.png)
 
 ## Prelúdio: A Costa
 
@@ -25,7 +25,7 @@ São essas qualidades oceânicas, difusas e imanentes que me fazem retornar a *C
 
 O que chamo aqui de “deriva” não é apenas o movimento narrativo ou a progressão do jogo, mas uma condição mais ampla, comum a muitos RPGs: a expectativa de que o sentido surja principalmente por meio de acúmulo, escalada e intervenção decisiva. *Chrono Cross* certamente contém todos esses elementos, mas também os suspende repetidamente. A beira da praia de Arni não é um espaço de preparação, nem uma pausa antes da ação; é um lugar em que agir, ao menos por um momento, torna-se desnecessário. Ao retornar a esse espaço, percebo-me menos interessado no que o jogo me pede para fazer do que naquilo que ele me permite não fazer. A beira torna-se, assim, um lugar onde a identidade não é forjada pela escolha, mas sustentada pela presença. Um lugar onde a deriva pode cessar, não por se alcançar um destino, mas simplesmente por permanecer.
 
-![Praia Opassa](https://github.com/tsrsilva/tsrsilva.github.io/blob/master/docs/assets/img/OpassaBeach.webp)
+![Praia Opassa](https://github.com/tsrsilva/tsrsilva.github.io/docs/assets/img/OpassaBeach.webp)
 
 ## O Mito Oceânico
 
@@ -39,7 +39,7 @@ Visto dessa forma, o mito de *Chrono Cross* não é heroico, mas imanente. Ele n
 
 Dentro dessa condição oceânica, não são necessariamente as figuras que agem de forma mais decisiva que permanecem mais presentes, mas aquelas que persistem silenciosamente nos ritmos do mundo. Essa qualidade encontra sua expressão mais clara em Leena.
 
-![Leena, Serge e a criança](https://github.com/tsrsilva/tsrsilva.github.io/blob/master/docs/assets/img/hq720.jpg)
+![Leena, Serge e a criança](https://github.com/tsrsilva/tsrsilva.github.io/docs/assets/img/hq720.jpg)
 
 ## Leena e a Vida Imanente
 
@@ -56,7 +56,7 @@ A forma como Leena habita o mundo ressoa com o que Gilles Deleuze descreve como 
 O que mais me atrai em Leena não é apenas sua gentileza, mas a orientação alternativa que ela articula para a vida. Suas ações são pequenas, repetitivas e orientadas ao cuidado, mas carregam um peso ético discreto. Ela não resolve as tensões do jogo, mas vive ao lado delas. Ao fazê-lo, torna visível uma maneira de existir que não deriva em busca de realização, mas permanece presente nos ritmos de um mundo compartilhado.
 
 
-![Guldove Torre Oeste](https://github.com/tsrsilva/tsrsilva.github.io/blob/master/docs/assets/img/Home_guldove_left_tower.png)
+![Guldove Torre Oeste](https://github.com/tsrsilva/tsrsilva.github.io/docs/assets/img/Home_guldove_left_tower.png)
 
 ## Refúgios Ontológicos: Arni e Guldove
 
