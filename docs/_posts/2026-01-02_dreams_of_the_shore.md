@@ -1,3 +1,11 @@
+---
+layout: post
+title: ---
+subtitle: --- Dreams of the Shore ---
+comments: false
+author: Thiago Silva
+---
+
 # Dreams of the Shore: Refúgio Ontológico e Vida Imanente em *Chrono Cross*
 
 > “Dreams of the Shore” é o nome de uma das músicas que acompanham a navegação no mapa de *Chrono Cross*.  
