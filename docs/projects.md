@@ -12,7 +12,7 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 #### Academic projects ####
 
 * **[PhenoBees](https://researchportal.helsinki.fi/fi/projects/phenobees-a-knowledgebase-and-integrative-approach-for-studying-t)** - Porto (Coordinator), Silva (Postdoc)
-* **A critical review of Frame Semantics applied to biological terminology** - Silva (Submitted)
+* **A critical review of Frame Semantics applied to biological terminology** - Silva (Reframing)
 * **Reframing fundamental concepts of insect societies for bio-ontologies** - Silva (Submitted)
 * **Gaia’s Navel: On the Limits of Biological Representation.** - Silva (Draft)
 * **Grammatical Similarity Beyond Taxonomy: A Corpus-Based Study of Species Descriptions** - Silva (Data Assembly and Analyses)
@@ -26,7 +26,7 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 
 #### Academic projects ####
 * **Additions to the taxonomy of Neotropical *Strumigenys* (Hymenoptera: Formicidae): description of new species, terminology alignment, and etymology of the generic epithet** - Silva, Ladino, Feitosa. [Rev. Bras. entomol. 69 (4), 2025](https://doi.org/10.1590/1806-9665-RBENT-2025-0006).
-* **Materiality and context of specimen labels: exposing frictions between local and global priorities in the preservation of ‘non-prototypical’ records** - Silva, Neundorf, Feitosa (Accepted) Biological Journal of Linnean Society: [10.1093/biolinnean/blaf115](https://doi.org/10.1093/biolinnean/blaf115)
+* **Materiality and context of specimen labels: exposing frictions between local and global priorities in the preservation of ‘non-prototypical’ records** - Silva, Neundorf, Feitosa (Accepted) Biological Journal of Linnean Society: [Biol. J. Linn. Soc. 147(1), 2026](https://academic.oup.com/biolinnean/article/doi/10.1093/biolinnean/blaf115/8426170?guestAccessKey=c05af8f0-ea90-4865-998e-050a8f531f03)
 
 #### Wikipedia and Wiktionary projects ####
 * Evaluating the [Ḳurʾānic translation of ʿ*ibād* (عِبَاد)](https://en.wikipedia.org/wiki/Talk:Ibad).
