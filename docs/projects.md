@@ -14,8 +14,9 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 * **[PhenoBees](https://researchportal.helsinki.fi/fi/projects/phenobees-a-knowledgebase-and-integrative-approach-for-studying-t)** - Porto (Coordinator), Silva (Postdoc)
 * **A critical review of Frame Semantics applied to biological terminology** - Silva (Reframing)
 * **Reframing fundamental concepts of insect societies for bio-ontologies** - Silva (Submitted)
-* **Gaia’s Navel: On the Limits of Biological Representation.** - Silva (Draft)
-* **Grammatical Similarity Beyond Taxonomy: A Corpus-Based Study of Species Descriptions** - Silva (Data Assembly and Analyses)
+* **Gaia’s Navel: on the limits of biological representation.** - Silva (Draft)
+* **Grammatical similarity beyond Taxonomy: a corpus-based study of species descriptions** - Silva (Data assembly and analyses)
+* **The taxonomic impediment reconsidered: why biodiversity loss is not a cause of knowledge deficit** - Silva (Submitted to enquiry)
 
 #### Writing ####
 
