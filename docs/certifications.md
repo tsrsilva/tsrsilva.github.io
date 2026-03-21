@@ -35,4 +35,4 @@ This page lists my major certifications, with a CV attached at the end. Not all 
  
 ### Curriculum Vitae ###
 
-<embed src="https://tsrsilva.github.io/docs/assets/pdfs/cv.docx.pdf" type="application/pdf" />
+<embed src="docs/assets/pdfs/cv.docx.pdf" type="application/pdf" />
