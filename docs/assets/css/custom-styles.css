@@ -1,0 +1,13 @@
+.embed-pdf-container {
+    position: relative;
+    width: 100%;
+    /* This calculates height minus the header/footer approximate size */
+    height: calc(100vh - 200px); 
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.embed-pdf-container iframe {
+    width: 100%;
+    height: 100%;
+}
