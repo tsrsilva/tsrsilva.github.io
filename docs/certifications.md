@@ -31,7 +31,7 @@ This page lists my major certifications, with a CV attached at the end. Not all 
     * Instructor: Ribamar Nascimento
     * Date: 15 May 2021
     * Length: 3.5 hours
-    * <a href="/assets/pdfs/UC-6dc862a3-b8ac-4ec8-8c95-36314b205589.pdf" target="_blank" class="btn btn-outline-success btn-sm" style="background-color: #3CB57C; border-color: #3CB57C; margin-top: 5px;">View Certificate (PDF)</a>
+    * <a href="/assets/pdfs/UC-6dc862a3-b8ac-4ec8-8c95-36314b205589.pdf" target="_blank" class="btn btn-outline-success btn-sm" style="color: #3CB57C; border-color: #3CB57C; margin-top: 5px;">View Certificate (PDF)</a>
 
 ---
 
