@@ -35,11 +35,15 @@ This page lists my major certifications, with a CV attached at the end. Not all 
  
 ### Curriculum Vitae ###
 
-<div class="pdf-container">
+<a href="/assets/pdfs/cv.docx.pdf" target="_blank" class="btn btn-primary" style="background-color: #3CB57C; border-color: #3CB57C; margin-bottom: 20px;">
+  <i class="fas fa-download"></i> Download CV (PDF)
+</a>
+
+<div class="pdf-container" style="overflow: hidden; border: 1px solid #ddd; border-radius: 4px;">
   <iframe 
     src="/assets/pdfs/cv.docx.pdf" 
     width="100%" 
-    style="height: 75vh; border: none;"
+    style="height: 80vh; border: none;"
     title="Curriculum Vitae">
   </iframe>
 </div>
