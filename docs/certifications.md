@@ -5,9 +5,15 @@ title: Certifications
 
 ## Overview ##
 
-This page lists my major certifications, with a CV attached at the end. Not all certifications are academic.
+This page lists my certifications, with a CV attached at the end. Not all certifications are academic.
 
 ### Certifications ###
+
+* **Focus on Peer Review**
+   * Instructors: Nature Masterclass
+   * Date: 27 March 2026
+   * Length: 3.5 hours
+   * <a href="/assets/pdfs/Focus_on_Peer_Review-Certificate_20260327-082401.pdf" target="_blank" class="btn btn-outline-success btn-sm" style="color: #3CB57C; border-color: #3CB57C; margin-top: 5px;">View Certificate (PDF)</a>
 
 * **NLP - Natural Language Processing with Python**
    * Instructors: Jose Portilla, Pierian Training
