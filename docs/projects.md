@@ -23,10 +23,10 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 
 ### Projects On Hold - Seeking collaboration ###
 
-* **Misplaced causality in biodiversity conservation: rethinking the taxonomic impediment** - Topics: Political Ecology, Critical Discourse Analysis, Biodiversity Knowledge Politics
-* **A critical review of Frame Semantics applied to biological terminology** - Topics: Terminology Studies, Frame Semantics, Knowledge Representation, Biological Documentation Practices
+* **Misplaced causality in biodiversity conservation: rethinking the taxonomic impediment** - Topics: Political Ecology, Critical Discourse Analysis, Biodiversity Knowledge, Conservation Discourse
+* **A critical review of Frame Semantics applied to biological terminology** - Topics: Terminology Studies, Cognitive Terminology, Knowledge Representation, Documentation Practices
 * **Gaia’s Navel: on the limits of biological representation** - Topics: Philosophy of Biology, Decolonial Epistemology, Feminist STS, Critical Theory
-* **Contextualizing biological archives: a frame-based study of collection records** - Topics: Museum Studies, Cognitive Terminology, Archival Documentation, Biological Collections
+* **Contextualizing biological archives: a frame-based study of collection records** - Topics: Archival Studies, Cognitive Terminology, Documentation Practices, Biological Collections
 
 ### Finished projects ###
 
