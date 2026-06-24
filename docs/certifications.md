@@ -9,6 +9,12 @@ This page lists my certifications, with a CV attached at the end. Not all certif
 
 ### Certifications ###
 
+* **Understanding and Using the Universal Declaration on Archives**
+   * Instructors: International Council on Archives
+   * Date: 24 June 2026
+   * Length: 15 hours
+   * <a href="/assets/pdfs/Understanding_and_Using_the_Universal_Declaration_on_Archives_Certificate.pdf" target="_blank" class="btn btn-outline-success btn-sm" style="color: #3CB57C; border-color: #3CB57C; margin-top: 5px;">View Certificate (PDF)</a>
+
 * **Focus on Peer Review**
    * Instructors: Nature Masterclass
    * Date: 27 March 2026
