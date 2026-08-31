@@ -10,19 +10,17 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 ### Ongoing projects ###
 
 #### Academic projects ####
-
 * **[PhenoBees](https://researchportal.helsinki.fi/fi/projects/phenobees-a-knowledgebase-and-integrative-approach-for-studying-t)** - Porto (Coordinator), Silva (Postdoc)
 * **Grammatical similarity beyond Taxonomy: a corpus-based study of species descriptions** - Silva (Data assembly and analysis)
 * **Gaia’s Navel: on the limits of biological representation** - Silva (Draft)
-
+* **Reframing fundamental concepts of insect societies for bio-ontologies** - Silva (Submitted) ([Preprint version](https://www.biorxiv.org/content/10.1101/2021.05.18.444717v5))
+  
 #### Writing ####
-
 * Writing Part 3 of *Aquaria*.
 * Drafting the second installment of the *Old Sun* books, the sequel to *Ashes of Mazin*.
 * Drafting *Urihi - Densho*.
 
-### Projects On Hold - Seeking collaboration ###
-
+### Projects On Hold ###
 * **Misplaced causality in biodiversity conservation: rethinking the taxonomic impediment** - Topics: Political Ecology, Critical Discourse Analysis, Biodiversity Knowledge, Conservation Discourse
 * **A critical review of Frame Semantics applied to biological terminology** - Topics: Terminology Studies, Cognitive Terminology, Knowledge Representation, Documentation Practices
 * **Contextualizing biological archives: a frame-based study of collection records** - Topics: Archival Studies, Cognitive Terminology, Documentation Practices, Biological Collections
@@ -37,13 +35,6 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 #### Writing ####
 * **Ashes of Mazin: Old Sun** ([Portuguese ebook version](https://a.co/d/hKYY3ET))
 * **Urihi: Espíritos ao vento** ([Portuguese ebook version](https://a.co/d/88InDvR))
-
-### Dropped projects ###
-
-#### Academic projects ####
-
-* **Reframing fundamental concepts of insect societies for bio-ontologies** - ([Preprint version](https://www.biorxiv.org/content/10.1101/2021.05.18.444717v5))
-
 
 #### Wikipedia and Wiktionary projects ####
 * Evaluating the [Ḳurʾānic translation of ʿ*ibād* (عِبَاد)](https://en.wikipedia.org/wiki/Talk:Ibad).
