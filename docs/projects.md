@@ -5,14 +5,12 @@ title: Projects
 
 ## Overview ##
 
-This page will be dedicated to listing all my ongoing and future projects. Finished projects are archived at the 'Finished Projects' section at the end of this page.
+This page will be dedicated to listing all my ongoing projects. Finished projects are archived at the 'Finished Projects' section at the end of this page.
 
 ### Ongoing projects ###
 
-#### Academic projects ####
+#### Academic projects and essays ####
 * **[PhenoBees](https://researchportal.helsinki.fi/fi/projects/phenobees-a-knowledgebase-and-integrative-approach-for-studying-t)** - Porto (Coordinator), Silva (Postdoc)
-* **Grammatical similarity beyond Taxonomy: a corpus-based study of species descriptions** - Silva (Data assembly and analysis)
-* **Gaia’s Navel: on the limits of biological representation** - Silva (Draft)
 * **Reframing fundamental concepts of insect societies for bio-ontologies** - Silva (Submitted) ([Preprint version](https://www.biorxiv.org/content/10.1101/2021.05.18.444717v5))
   
 #### Writing ####
@@ -20,14 +18,10 @@ This page will be dedicated to listing all my ongoing and future projects. Finis
 * Drafting the second installment of the *Old Sun* books, the sequel to *Ashes of Mazin*.
 * Drafting *Urihi - Densho*.
 
-### Projects On Hold ###
-* **Misplaced causality in biodiversity conservation: rethinking the taxonomic impediment** - Topics: Political Ecology, Critical Discourse Analysis, Biodiversity Knowledge, Conservation Discourse
-* **A critical review of Frame Semantics applied to biological terminology** - Topics: Terminology Studies, Cognitive Terminology, Knowledge Representation, Documentation Practices
-* **Contextualizing biological archives: a frame-based study of collection records** - Topics: Archival Studies, Cognitive Terminology, Documentation Practices, Biological Collections
-
 ### Finished projects ###
 
-#### Academic projects ####
+#### Academic projects and essays ####
+* **Of silkworms and reincarnation in Kuon** - Silva. [J. Geek Stud. 13(2), 2026](https://jgeekstudies.org/2026/09/02/of-silkworms-and-reincarnation-in-kuon/)
 * **Materiality and context of specimen labels: exposing frictions between local and global priorities in the preservation of ‘non-prototypical’ records** - Silva, Neundorf, Feitosa. [Biol. J. Linn. Soc. 147(1), 2026](https://academic.oup.com/biolinnean/article/doi/10.1093/biolinnean/blaf115/8426170?guestAccessKey=c05af8f0-ea90-4865-998e-050a8f531f03)
 * **Additions to the taxonomy of Neotropical *Strumigenys* (Hymenoptera: Formicidae): description of new species, terminology alignment, and etymology of the generic epithet** - Silva, Ladino, Feitosa. [Rev. Bras. Entomol. 69 (4), 2025](https://doi.org/10.1590/1806-9665-RBENT-2025-0006).
 * **Narratives of Environmental Crisis in Chrono Cross: Settler Colonialism, Interspecies Conflicts and Environmental Injustice** - Silva, Silva. [Rev. Eletr. Ludus Sci., 9, 7-28, 2025](https://revistas.unila.edu.br/relus/article/download/4976/4113)
