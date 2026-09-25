@@ -9,6 +9,12 @@ This page lists my certifications, with a CV attached at the end. Not all certif
 
 ### Certifications ###
 
+* **Introduction to Records Management**
+   * Instructors: International Council on Archives
+   * Date: 29 August 2026
+   * Length: 20 hours
+   * <a href="/assets/pdfs/9.3_Introduction_to_Records_Management_Certificate.pdf" target="_blank" class="btn btn-outline-success btn-sm" style="color: #3CB57C; border-color: #3CB57C; margin-top: 5px;">View Certificate (PDF)</a>
+
 * **Understanding and Using the Universal Declaration on Archives**
    * Instructors: International Council on Archives
    * Date: 24 June 2026
